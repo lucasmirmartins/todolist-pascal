@@ -81,7 +81,7 @@ cd todolist-pascal
 Utilize o Free Pascal Compiler:
 
 ```bash
-fpc todolist.pas
+fpc TodoList.pas
 ```
 
 > Caso o arquivo principal possua outro nome, utilize o nome correspondente ao arquivo `.pas` do projeto.
@@ -91,7 +91,7 @@ fpc todolist.pas
 No Linux:
 
 ```bash
-./todolist
+./TodoList
 ```
 
 ---
