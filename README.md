@@ -1,20 +1,14 @@
 # 📝 TodoList em Pascal
 
-Aplicação de linha de comando para gerenciamento de tarefas, desenvolvida em **Pascal** durante meus estudos de programação.
-
-O projeto foi criado para praticar fundamentos de programação, organização de código, estruturas de dados e interação com o usuário através do terminal.
-
----
+Aplicação de linha de comando para gerenciamento de tarefas, desenvolvida em **Pascal** com foco na prática de fundamentos de programação, organização de código e interação com o usuário através do terminal.
 
 ## 🎯 Sobre o projeto
 
-O TodoList permite gerenciar tarefas diretamente pelo terminal através de um menu interativo.
+O **TodoList** é uma aplicação simples de gerenciamento de tarefas executada diretamente pelo terminal através de um menu interativo.
 
-O usuário pode cadastrar novas tarefas, visualizar as tarefas existentes, marcá-las como concluídas e removê-las.
+O usuário pode cadastrar novas tarefas, visualizar as tarefas cadastradas, marcá-las como concluídas e removê-las.
 
-O projeto também possui validações para evitar opções inválidas no menu e controlar a quantidade de tarefas cadastradas.
-
----
+O projeto também possui validações para controlar as opções disponíveis no menu e a quantidade de tarefas cadastradas.
 
 ## 🚀 Funcionalidades
 
@@ -22,19 +16,15 @@ O projeto também possui validações para evitar opções inválidas no menu e 
 * 📋 Listar tarefas
 * ✅ Marcar tarefas como concluídas
 * 🗑️ Remover tarefas
-* 🔎 Validação das opções do menu
-* 📊 Controle da quantidade de tarefas cadastradas
-* 💻 Interface interativa pelo terminal
-
----
+* 🔎 Validar opções do menu
+* 📊 Controlar a quantidade de tarefas cadastradas
+* 💻 Interagir com a aplicação através do terminal
 
 ## 🛠️ Tecnologias
 
 * **Pascal**
 * **Free Pascal Compiler (FPC)**
 * **Terminal / Linha de comando**
-
----
 
 ## 📚 Conceitos praticados
 
@@ -49,9 +39,7 @@ Durante o desenvolvimento foram praticados conceitos fundamentais de programaç�
 * Functions
 * Entrada e saída de dados
 * Validação de dados
-* Organização e estruturação do código
-
----
+* Organização e estruturação de código
 
 ## ▶️ Como executar
 
@@ -70,7 +58,7 @@ sudo apt install fp-compiler
 git clone https://github.com/lucasmirmartins/todolist-pascal.git
 ```
 
-Entre na pasta:
+Entre na pasta do projeto:
 
 ```bash
 cd todolist-pascal
@@ -84,8 +72,6 @@ Utilize o Free Pascal Compiler:
 fpc TodoList.pas
 ```
 
-> Caso o arquivo principal possua outro nome, utilize o nome correspondente ao arquivo `.pas` do projeto.
-
 ### 4. Execute
 
 No Linux:
@@ -94,15 +80,11 @@ No Linux:
 ./TodoList
 ```
 
----
+## 🎓 Objetivo
 
-## 🎓 Objetivo do projeto
+O projeto foi desenvolvido para colocar em prática fundamentos importantes da programação utilizando Pascal.
 
-Este projeto faz parte da minha jornada de aprendizado em desenvolvimento de software.
-
-A proposta foi construir uma aplicação simples, mas completa o suficiente para praticar fundamentos importantes da programação e entender melhor como estruturar uma aplicação de linha de comando.
-
----
+Através de uma aplicação pequena e funcional, foram trabalhados conceitos como estruturas de dados, controle de fluxo, funções, procedures, validação de entradas e organização do código.
 
 ## 👨‍💻 Autor
 
